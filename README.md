@@ -16,7 +16,7 @@ Skills I've used:</br>
 <!--  ![AWS](http://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazon%20aws&logoColor=white) -->
 
 Projects I contributed:</br>
-- [StudyON](https://github.com/ymh254/studyON_fe)
+📍[StudyON](https://github.com/ymh254/studyON_fe)
 
 ![Mino's github stats](https://github-readme-stats.vercel.app/api?username=ymh254&show_icons=true&theme=merko)</br>
 Feel free to reach out to me 📧
